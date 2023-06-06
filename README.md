@@ -19,3 +19,17 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
   - Type : https://www.rbi.org.in/scripts/banklinks.aspx
 - [ ] How to scrape names & other details from official websites.
 
+## Optimizing & Converting
+```sh
+# Optimize SVGs to be the smallest size they can be
+brew install svgo
+./optimize.sh
+```
+
+```sh
+# Convert each SVG to PNG for use in cases where SVG isn't supported
+brew install inkscape
+./convert.sh
+```
+
+
