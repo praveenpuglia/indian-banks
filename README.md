@@ -56,8 +56,9 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 | Punjab and Sind Bank             | `psib` |
 | Punjab National Bank             | `punb` |
 | RBL Bank Limited                 | `ratn` |
-| State Bank of India              | `sbin` |
 | South Indian Bank                | `sibl` |
+| Standard Chartered Bank          | `scbl` |
+| State Bank of India              | `sbin` |
 | Tamilnad Mercantile Bank Limited | `tmbl` |
 | Union Bank of India              | `ubin` |
 | UCO Bank                         | `ucba` |
