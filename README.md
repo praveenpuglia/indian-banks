@@ -60,6 +60,7 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 | Standard Chartered Bank          | `scbl` |
 | State Bank of India              | `sbin` |
 | Tamilnad Mercantile Bank Limited | `tmbl` |
+| Ujjivan Small Finance Bank Ltd   | `ujvn` |
 | Union Bank of India              | `ubin` |
 | UCO Bank                         | `ucba` |
 | Axis Bank                        | `utib` |
