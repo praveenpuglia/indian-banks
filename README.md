@@ -26,6 +26,7 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 
 | Bank Name                        | Slug   |
 | -------------------------------- | ------ |
+| Airtel Payments Bank             | `airp` |
 | AU Small Finance Bank Limited    | `aubl` |
 | Bank of Baroda                   | `barb` |
 | Bandhan Bank                     | `bdbl` |
@@ -44,12 +45,14 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 | Indian Bank                      | `idib` |
 | Indusind Bank                    | `indb` |
 | Indian Overseas Bank             | `ioba` |
+| Jio Payments Bank                | `jiop` |
 | Jammu and Kashmir Bank           | `jaka` |
 | Karnataka Bank Limited           | `karb` |
 | Kotak Mahindra Bank Limited      | `kkbk` |
 | Karur Vysya Bank                 | `kvbl` |
 | Bank of Maharashtra              | `mahb` |
 | The Nainital Bank Limited        | `ntbl` |
+| Paytm Payments Bank              | `pytm` |
 | Punjab and Sind Bank             | `psib` |
 | Punjab National Bank             | `punb` |
 | RBL Bank Limited                 | `ratn` |
