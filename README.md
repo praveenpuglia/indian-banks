@@ -42,6 +42,7 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 | IDBI Bank                        | `ibkl` | <img src="./assets/logos/ibkl/logo.svg" height="64" /> | <img src="./assets/logos/ibkl/symbol.svg" height="64" /> |
 | ICICI Bank Limited               | `icic` | <img src="./assets/logos/icic/logo.svg" height="64" /> | <img src="./assets/logos/icic/symbol.svg" height="64" /> |
 | IDFC First Bank Limited          | `idfb` | <img src="./assets/logos/idfb/logo.svg" height="64" /> | <img src="./assets/logos/idfb/symbol.svg" height="64" /> |
+| India Post Payments Bank         | `ipos` | <img src="./assets/logos/ipos/logo.svg" height="64" /> | <img src="./assets/logos/ipos/symbol.svg" height="64" /> |
 | Indian Bank                      | `idib` | <img src="./assets/logos/idib/logo.svg" height="64" /> | <img src="./assets/logos/idib/symbol.svg" height="64" /> |
 | Indusind Bank                    | `indb` | <img src="./assets/logos/indb/logo.svg" height="64" /> | <img src="./assets/logos/indb/symbol.svg" height="64" /> |
 | Indian Overseas Bank             | `ioba` | <img src="./assets/logos/ioba/logo.svg" height="64" /> | <img src="./assets/logos/ioba/symbol.svg" height="64" /> |
