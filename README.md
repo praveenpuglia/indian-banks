@@ -69,18 +69,39 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 
 ## Optimizing & Converting
 
-```sh
-# Optimize SVGs to be the smallest size they can be
-brew install svgo
-./optimize.sh
-```
+Optimize SVGs (preserves `viewBox`):
 
 ```sh
-# Convert each SVG to PNG for use in cases where SVG isn't supported
-brew install inkscape
-./convert.sh
+pnpm install
+pnpm run optimize
 ```
+
+Convert SVGs to PNG or AVIF. By default, writes 1x PNGs alongside each SVG in `assets/logos/`:
+
+```sh
+pnpm run convert
+```
+
+We ship 1x PNGs alongside every SVG. If you need AVIF or higher-density variants, pass a format, scale factor, and output directory:
+
+```sh
+# 2x AVIFs into ./dist
+pnpm run convert -- --format avif --scale 2 --out dist
+```
+
+**Flags**
+
+| Flag              | Values       | Default           | Notes                                        |
+| ----------------- | ------------ | ----------------- | -------------------------------------------- |
+| `-f`, `--format`  | `png`, `avif`| `png`             |                                              |
+| `-s`, `--scale`   | `1`, `2`, `3`| `1`               | 1x uses intrinsic SVG dimensions             |
+| `-o`, `--out`     | any dir      | `assets/logos/`   | If omitted, overwrites files in the repo     |
+
+Output is named `logo.png` at 1x, `logo@2x.png` at 2x, `logo@3x.png` at 3x (and the same pattern for AVIF).
 
 ## Contributors
+<a href="https://github.com/praveenpuglia/indian-banks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=praveenpuglia/indian-banks" />
+</a>
 
-- [Jai Kathuria](https://github.com/jaikathuria)
+Made with [contrib.rocks](https://contrib.rocks).
