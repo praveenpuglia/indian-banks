@@ -76,12 +76,28 @@ pnpm install
 pnpm run optimize
 ```
 
-Convert each SVG to PNG for cases where SVG isn't supported:
+Convert SVGs to PNG or AVIF. By default, writes 1x PNGs alongside each SVG in `assets/logos/`:
 
 ```sh
-brew install inkscape
-./convert.sh
+pnpm run convert
 ```
+
+We ship 1x PNGs alongside every SVG. If you need AVIF or higher-density variants, pass a format, scale factor, and output directory:
+
+```sh
+# 2x AVIFs into ./dist
+pnpm run convert -- --format avif --scale 2 --out dist
+```
+
+**Flags**
+
+| Flag              | Values       | Default           | Notes                                        |
+| ----------------- | ------------ | ----------------- | -------------------------------------------- |
+| `-f`, `--format`  | `png`, `avif`| `png`             |                                              |
+| `-s`, `--scale`   | `1`, `2`, `3`| `1`               | 1x uses intrinsic SVG dimensions             |
+| `-o`, `--out`     | any dir      | `assets/logos/`   | If omitted, overwrites files in the repo     |
+
+Output is named `logo.png` at 1x, `logo@2x.png` at 2x, `logo@3x.png` at 3x (and the same pattern for AVIF).
 
 ## Contributors
 <a href="https://github.com/praveenpuglia/indian-banks/graphs/contributors">

@@ -4,15 +4,14 @@
   "description": "Structured, centralized data, including logos for all the Indian Banks.",
   "scripts": {
     "optimize": "svgo -rf assets/logos",
+    "convert": "node scripts/convert.mjs",
     "prepare": "husky"
   },
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^15.2.10",
+    "sharp": "^0.34.5",
     "svgo": "^4.0.1"
   },
-  "packageManager": "pnpm@9.0.0",
-  "lint-staged": {
-    "assets/logos/**/*.svg": "svgo"
-  }
+  "packageManager": "pnpm@9.0.0"
 }
