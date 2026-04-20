@@ -5,6 +5,7 @@
   "scripts": {
     "optimize": "svgo -rf assets/logos",
     "convert": "node scripts/convert.mjs",
+    "generate:readme": "node scripts/generate-readme-table.mjs",
     "prepare": "husky"
   },
   "devDependencies": {

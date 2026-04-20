@@ -7,4 +7,8 @@ export default {
       `git add ${pngs.join(' ')}`,
     ];
   },
+  '{assets/logos/**,data/banks.json}': () => [
+    'node scripts/generate-readme-table.mjs',
+    'git add README.md',
+  ],
 };
