@@ -69,18 +69,23 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 
 ## Optimizing & Converting
 
-```sh
-# Optimize SVGs to be the smallest size they can be
-brew install svgo
-./optimize.sh
-```
+Optimize SVGs (preserves `viewBox`):
 
 ```sh
-# Convert each SVG to PNG for use in cases where SVG isn't supported
+pnpm install
+pnpm run optimize
+```
+
+Convert each SVG to PNG for cases where SVG isn't supported:
+
+```sh
 brew install inkscape
 ./convert.sh
 ```
 
 ## Contributors
+<a href="https://github.com/praveenpuglia/indian-banks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=praveenpuglia/indian-banks" />
+</a>
 
-- [Jai Kathuria](https://github.com/jaikathuria)
+Made with [contrib.rocks](https://contrib.rocks).
