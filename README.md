@@ -37,6 +37,7 @@ As you can imagine, this is a time consuming effort and it would be amazing if y
 | CSB Bank Limited                 | `csbk` | <img src="./assets/logos/csbk/logo.svg" height="64" /> | <img src="./assets/logos/csbk/symbol.svg" height="64" /> |
 | DCB Bank Limited                 | `dcbl` | <img src="./assets/logos/dcbl/logo.svg" height="64" /> | <img src="./assets/logos/dcbl/symbol.svg" height="64" /> |
 | Dhanalakshmi Bank                | `dlxb` | <img src="./assets/logos/dlxb/logo.svg" height="64" /> | <img src="./assets/logos/dlxb/symbol.svg" height="64" /> |
+| ESAF Small Finance Bank          | `esmf` | <img src="./assets/logos/esmf/logo.svg" height="64" /> | <img src="./assets/logos/esmf/symbol.svg" height="64" /> |
 | Federal Bank                     | `fdrl` | <img src="./assets/logos/fdrl/logo.svg" height="64" /> | <img src="./assets/logos/fdrl/symbol.svg" height="64" /> |
 | HDFC Bank                        | `hdfc` | <img src="./assets/logos/hdfc/logo.svg" height="64" /> | <img src="./assets/logos/hdfc/symbol.svg" height="64" /> |
 | IDBI Bank                        | `ibkl` | <img src="./assets/logos/ibkl/logo.svg" height="64" /> | <img src="./assets/logos/ibkl/symbol.svg" height="64" /> |
