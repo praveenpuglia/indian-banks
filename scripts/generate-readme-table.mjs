@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { access, readFile, writeFile } from 'node:fs/promises';
+import { access, readdir, readFile, writeFile } from 'node:fs/promises';
 
 const LOGOS_ROOT = 'assets/logos';
 const README = 'README.md';
@@ -26,6 +26,32 @@ function assetCell(folder, base, hasSvg, hasPng) {
 
 const banks = JSON.parse(await readFile(BANKS, 'utf8'));
 const slugs = Object.keys(banks).sort();
+
+const folderEntries = await readdir(LOGOS_ROOT, { withFileTypes: true });
+const folderSlugs = new Set(
+  folderEntries.filter((e) => e.isDirectory()).map((e) => e.name),
+);
+const jsonSlugs = new Set(slugs);
+
+const missingFromJson = [...folderSlugs].filter((s) => !jsonSlugs.has(s)).sort();
+const missingFromDisk = [...jsonSlugs].filter((s) => !folderSlugs.has(s)).sort();
+
+if (missingFromJson.length > 0 || missingFromDisk.length > 0) {
+  console.error(`${BANKS} and ${LOGOS_ROOT}/ are out of sync:`);
+  if (missingFromJson.length > 0) {
+    console.error(
+      `  Folder(s) without a ${BANKS} entry: ${missingFromJson.join(', ')}`,
+    );
+    console.error(`  → add an entry: "<slug>": "Official Bank Name"`);
+  }
+  if (missingFromDisk.length > 0) {
+    console.error(
+      `  ${BANKS} entries without a folder: ${missingFromDisk.join(', ')}`,
+    );
+    console.error(`  → create ${LOGOS_ROOT}/<slug>/ and drop assets in`);
+  }
+  process.exit(1);
+}
 
 const rows = await Promise.all(
   slugs.map(async (slug) => {

@@ -42,6 +42,7 @@ This table is auto-generated from [data/banks.json](./data/banks.json) and the c
 | [Dhanalakshmi Bank](./assets/logos/dlxb/) | `dlxb` | <img src="./assets/logos/dlxb/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/dlxb/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [ESAF Small Finance Bank](./assets/logos/esmf/) | `esmf` | <img src="./assets/logos/esmf/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/esmf/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Federal Bank](./assets/logos/fdrl/) | `fdrl` | <img src="./assets/logos/fdrl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/fdrl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
+| [FINO Payments Bank](./assets/logos/fino/) | `fino` | <img src="./assets/logos/fino/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/fino/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [HDFC Bank](./assets/logos/hdfc/) | `hdfc` | <img src="./assets/logos/hdfc/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/hdfc/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [IDBI Bank](./assets/logos/ibkl/) | `ibkl` | <img src="./assets/logos/ibkl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ibkl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [ICICI Bank Limited](./assets/logos/icic/) | `icic` | <img src="./assets/logos/icic/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/icic/symbol.svg" height="64" /><br/>`SVG` `PNG` |
