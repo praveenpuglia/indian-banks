@@ -36,7 +36,7 @@
 - [ ] Capital Small Finance Bank Ltd
 - [ ] Fincare Small Finance Bank Ltd.
 - [ ] Equitas Small Finance Bank Ltd
-- [ ] ESAF Small Finance Bank Ltd.
+- [x] ESAF Small Finance Bank Ltd.
 - [ ] Suryoday Small Finance Bank Ltd.
 - [x] Ujjivan Small Finance Bank Ltd.
 - [ ] Utkarsh Small Finance Bank Ltd.
@@ -49,7 +49,7 @@
 
 - [x] Airtel Payments Bank Ltd
 - [ ] India Post Payments Bank Ltd
-- [ ] FINO Payments Bank Ltd
+- [x] FINO Payments Bank Ltd
 - [x] Paytm Payments Bank Ltd
 - [x] Jio Payments Bank Ltd
 - [ ] NSDL Payments Bank Limited
