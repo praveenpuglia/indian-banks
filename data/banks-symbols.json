@@ -1,8 +1,23 @@
 [
   {
+    "slug": "abna",
+    "name": "ABN AMRO Bank N.V.",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/abna/symbol.svg"
+  },
+  {
+    "slug": "adcb",
+    "name": "Abu Dhabi Commercial Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/adcb/symbol.svg"
+  },
+  {
     "slug": "airp",
     "name": "Airtel Payments Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/airp/symbol.svg"
+  },
+  {
+    "slug": "anzb",
+    "name": "Australia and New Zealand Banking Group Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/anzb/symbol.svg"
   },
   {
     "slug": "aubl",
@@ -15,6 +30,26 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/barb/symbol.svg"
   },
   {
+    "slug": "barc",
+    "name": "Barclays Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/barc/symbol.svg"
+  },
+  {
+    "slug": "bbkm",
+    "name": "Bank of Bahrain and Kuwait",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bbkm/symbol.svg"
+  },
+  {
+    "slug": "bcey",
+    "name": "Bank of Ceylon",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bcey/symbol.svg"
+  },
+  {
+    "slug": "bchn",
+    "name": "Bank of China",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bchn/symbol.svg"
+  },
+  {
     "slug": "bdbl",
     "name": "Bandhan Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bdbl/symbol.svg"
@@ -25,9 +60,29 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bkid/symbol.svg"
   },
   {
+    "slug": "bnpa",
+    "name": "BNP Paribas",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bnpa/symbol.svg"
+  },
+  {
+    "slug": "bofa",
+    "name": "Bank of America",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bofa/symbol.svg"
+  },
+  {
+    "slug": "botm",
+    "name": "MUFG Bank Ltd",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/botm/symbol.svg"
+  },
+  {
     "slug": "cbin",
     "name": "Central Bank of India",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cbin/symbol.svg"
+  },
+  {
+    "slug": "citi",
+    "name": "Citibank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/citi/symbol.svg"
   },
   {
     "slug": "ciub",
@@ -40,9 +95,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cnrb/symbol.svg"
   },
   {
+    "slug": "cres",
+    "name": "Credit Suisse AG",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cres/symbol.svg"
+  },
+  {
+    "slug": "crly",
+    "name": "Credit Agricole Corporate and Investment Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/crly/symbol.svg"
+  },
+  {
     "slug": "csbk",
     "name": "CSB Bank Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/csbk/symbol.svg"
+  },
+  {
+    "slug": "dbss",
+    "name": "DBS Bank India Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dbss/symbol.svg"
   },
   {
     "slug": "dcbl",
@@ -50,9 +120,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dcbl/symbol.svg"
   },
   {
+    "slug": "deut",
+    "name": "Deutsche Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/deut/symbol.svg"
+  },
+  {
     "slug": "dlxb",
     "name": "Dhanalakshmi Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dlxb/symbol.svg"
+  },
+  {
+    "slug": "dohb",
+    "name": "Doha Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dohb/symbol.svg"
+  },
+  {
+    "slug": "ebil",
+    "name": "Emirates NBD Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ebil/symbol.svg"
   },
   {
     "slug": "esmf",
@@ -70,14 +155,44 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/fino/symbol.svg"
   },
   {
+    "slug": "firn",
+    "name": "FirstRand Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/firn/symbol.svg"
+  },
+  {
     "slug": "hdfc",
     "name": "HDFC Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/hdfc/symbol.svg"
   },
   {
+    "slug": "hsbc",
+    "name": "HSBC Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/hsbc/symbol.svg"
+  },
+  {
+    "slug": "hvbk",
+    "name": "Woori Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/hvbk/symbol.svg"
+  },
+  {
+    "slug": "ibbk",
+    "name": "PT Bank Maybank Indonesia Tbk",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ibbk/symbol.svg"
+  },
+  {
     "slug": "ibkl",
     "name": "IDBI Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ibkl/symbol.svg"
+  },
+  {
+    "slug": "ibko",
+    "name": "Industrial Bank of Korea",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ibko/symbol.svg"
+  },
+  {
+    "slug": "icbk",
+    "name": "Industrial and Commercial Bank of China Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/icbk/symbol.svg"
   },
   {
     "slug": "icic",
@@ -105,6 +220,11 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ioba/symbol.svg"
   },
   {
+    "slug": "ipos",
+    "name": "India Post Payments Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ipos/symbol.svg"
+  },
+  {
     "slug": "jaka",
     "name": "Jammu and Kashmir Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jaka/symbol.svg"
@@ -120,9 +240,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/karb/symbol.svg"
   },
   {
+    "slug": "kbkb",
+    "name": "Kookmin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kbkb/symbol.svg"
+  },
+  {
     "slug": "kkbk",
     "name": "Kotak Mahindra Bank Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kkbk/symbol.svg"
+  },
+  {
+    "slug": "koex",
+    "name": "KEB Hana Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/koex/symbol.svg"
+  },
+  {
+    "slug": "krth",
+    "name": "Krung Thai Bank Public Company Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/krth/symbol.svg"
   },
   {
     "slug": "kvbl",
@@ -133,6 +268,21 @@
     "slug": "mahb",
     "name": "Bank of Maharashtra",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mahb/symbol.svg"
+  },
+  {
+    "slug": "mhcb",
+    "name": "Mizuho Bank Ltd",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mhcb/symbol.svg"
+  },
+  {
+    "slug": "nbad",
+    "name": "First Abu Dhabi Bank PJSC",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nbad/symbol.svg"
+  },
+  {
+    "slug": "nosc",
+    "name": "Bank of Nova Scotia",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nosc/symbol.svg"
   },
   {
     "slug": "ntbl",
@@ -155,9 +305,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/pytm/symbol.svg"
   },
   {
+    "slug": "qnba",
+    "name": "Qatar National Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/qnba/symbol.svg"
+  },
+  {
+    "slug": "rabo",
+    "name": "Cooperatieve Rabobank U.A.",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/rabo/symbol.svg"
+  },
+  {
     "slug": "ratn",
     "name": "RBL Bank Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ratn/symbol.svg"
+  },
+  {
+    "slug": "sabr",
+    "name": "Sberbank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/sabr/symbol.svg"
   },
   {
     "slug": "sbin",
@@ -170,9 +335,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/scbl/symbol.svg"
   },
   {
+    "slug": "shbk",
+    "name": "Shinhan Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/shbk/symbol.svg"
+  },
+  {
     "slug": "sibl",
     "name": "South Indian Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/sibl/symbol.svg"
+  },
+  {
+    "slug": "smbc",
+    "name": "Sumitomo Mitsui Banking Corporation",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/smbc/symbol.svg"
+  },
+  {
+    "slug": "soge",
+    "name": "Societe Generale",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/soge/symbol.svg"
   },
   {
     "slug": "tmbl",
@@ -195,9 +375,19 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ujvn/symbol.svg"
   },
   {
+    "slug": "uovb",
+    "name": "United Overseas Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/uovb/symbol.svg"
+  },
+  {
     "slug": "utib",
     "name": "Axis Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/utib/symbol.svg"
+  },
+  {
+    "slug": "wpac",
+    "name": "Westpac Banking Corporation",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/wpac/symbol.svg"
   },
   {
     "slug": "yesb",
