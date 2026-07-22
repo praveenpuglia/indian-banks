@@ -1,5 +1,10 @@
 [
   {
+    "slug": "ab-bank",
+    "name": "AB Bank PLC",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ab-bank/symbol.svg"
+  },
+  {
     "slug": "abna",
     "name": "ABN AMRO Bank N.V.",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/abna/symbol.svg"
@@ -15,9 +20,29 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/airp/symbol.svg"
   },
   {
+    "slug": "amex",
+    "name": "American Express Banking Corporation",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/amex/symbol.svg"
+  },
+  {
     "slug": "anzb",
     "name": "Australia and New Zealand Banking Group Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/anzb/symbol.svg"
+  },
+  {
+    "slug": "ap-grameena",
+    "name": "Andhra Pradesh Grameena Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ap-grameena/symbol.svg"
+  },
+  {
+    "slug": "arunachal-rural",
+    "name": "Arunachal Pradesh Rural Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/arunachal-rural/symbol.svg"
+  },
+  {
+    "slug": "assam-gramin",
+    "name": "Assam Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/assam-gramin/symbol.svg"
   },
   {
     "slug": "aubl",
@@ -55,6 +80,11 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bdbl/symbol.svg"
   },
   {
+    "slug": "bihar-gramin",
+    "name": "Bihar Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bihar-gramin/symbol.svg"
+  },
+  {
     "slug": "bkid",
     "name": "Bank of India",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bkid/symbol.svg"
@@ -80,6 +110,16 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cbin/symbol.svg"
   },
   {
+    "slug": "chas",
+    "name": "J.P. Morgan Chase Bank N.A.",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/chas/symbol.svg"
+  },
+  {
+    "slug": "chhattisgarh-gramin",
+    "name": "Chhattisgarh Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/chhattisgarh-gramin/symbol.svg"
+  },
+  {
     "slug": "citi",
     "name": "Citibank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/citi/symbol.svg"
@@ -88,6 +128,11 @@
     "slug": "ciub",
     "name": "City Union Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ciub/symbol.svg"
+  },
+  {
+    "slug": "clbl",
+    "name": "Capital Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/clbl/symbol.svg"
   },
   {
     "slug": "cnrb",
@@ -108,6 +153,11 @@
     "slug": "csbk",
     "name": "CSB Bank Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/csbk/symbol.svg"
+  },
+  {
+    "slug": "ctcb",
+    "name": "CTBC Bank Co., Ltd.",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ctcb/symbol.svg"
   },
   {
     "slug": "dbss",
@@ -140,6 +190,11 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ebil/symbol.svg"
   },
   {
+    "slug": "esfb",
+    "name": "Equitas Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/esfb/symbol.svg"
+  },
+  {
     "slug": "esmf",
     "name": "ESAF Small Finance Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/esmf/symbol.svg"
@@ -160,9 +215,24 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/firn/symbol.svg"
   },
   {
+    "slug": "gujarat-gramin",
+    "name": "Gujarat Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/gujarat-gramin/symbol.svg"
+  },
+  {
+    "slug": "haryana-gramin",
+    "name": "Haryana Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/haryana-gramin/symbol.svg"
+  },
+  {
     "slug": "hdfc",
     "name": "HDFC Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/hdfc/symbol.svg"
+  },
+  {
+    "slug": "himachal-gramin",
+    "name": "Himachal Pradesh Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/himachal-gramin/symbol.svg"
   },
   {
     "slug": "hsbc",
@@ -230,9 +300,19 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jaka/symbol.svg"
   },
   {
+    "slug": "jharkhand-gramin",
+    "name": "Jharkhand Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jharkhand-gramin/symbol.svg"
+  },
+  {
     "slug": "jiop",
     "name": "Jio Payments Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jiop/symbol.svg"
+  },
+  {
+    "slug": "jsfb",
+    "name": "Jana Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jsfb/symbol.svg"
   },
   {
     "slug": "karb",
@@ -240,9 +320,19 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/karb/symbol.svg"
   },
   {
+    "slug": "karnataka-grameena",
+    "name": "Karnataka Grameena Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/karnataka-grameena/symbol.svg"
+  },
+  {
     "slug": "kbkb",
     "name": "Kookmin Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kbkb/symbol.svg"
+  },
+  {
+    "slug": "kerala-grameena",
+    "name": "Kerala Grameena Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kerala-grameena/symbol.svg"
   },
   {
     "slug": "kkbk",
@@ -265,9 +355,19 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kvbl/symbol.svg"
   },
   {
+    "slug": "maharashtra-gramin",
+    "name": "Maharashtra Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/maharashtra-gramin/symbol.svg"
+  },
+  {
     "slug": "mahb",
     "name": "Bank of Maharashtra",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mahb/symbol.svg"
+  },
+  {
+    "slug": "manipur-rural",
+    "name": "Manipur Rural Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/manipur-rural/symbol.svg"
   },
   {
     "slug": "mhcb",
@@ -275,9 +375,39 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mhcb/symbol.svg"
   },
   {
+    "slug": "mizoram-rural",
+    "name": "Mizoram Rural Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mizoram-rural/symbol.svg"
+  },
+  {
+    "slug": "mp-gramin",
+    "name": "Madhya Pradesh Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mp-gramin/symbol.svg"
+  },
+  {
+    "slug": "nagaland-rural",
+    "name": "Nagaland Rural Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nagaland-rural/symbol.svg"
+  },
+  {
+    "slug": "natwest",
+    "name": "NatWest Markets Plc",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/natwest/symbol.svg"
+  },
+  {
     "slug": "nbad",
     "name": "First Abu Dhabi Bank PJSC",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nbad/symbol.svg"
+  },
+  {
+    "slug": "nesf",
+    "name": "Slice Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nesf/symbol.svg"
+  },
+  {
+    "slug": "nhba",
+    "name": "NongHyup Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/nhba/symbol.svg"
   },
   {
     "slug": "nosc",
@@ -290,14 +420,29 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ntbl/symbol.svg"
   },
   {
+    "slug": "odisha-grameen",
+    "name": "Odisha Grameen Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/odisha-grameen/symbol.svg"
+  },
+  {
     "slug": "psib",
     "name": "Punjab and Sind Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/psib/symbol.svg"
   },
   {
+    "slug": "puducherry-grama",
+    "name": "Puducherry Grama Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/puducherry-grama/symbol.svg"
+  },
+  {
     "slug": "punb",
     "name": "Punjab National Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/punb/symbol.svg"
+  },
+  {
+    "slug": "punjab-gramin",
+    "name": "Punjab Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/punjab-gramin/symbol.svg"
   },
   {
     "slug": "pytm",
@@ -313,6 +458,11 @@
     "slug": "rabo",
     "name": "Cooperatieve Rabobank U.A.",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/rabo/symbol.svg"
+  },
+  {
+    "slug": "rajasthan-gramin",
+    "name": "Rajasthan Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/rajasthan-gramin/symbol.svg"
   },
   {
     "slug": "ratn",
@@ -350,9 +500,34 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/smbc/symbol.svg"
   },
   {
+    "slug": "smcb",
+    "name": "Shivalik Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/smcb/symbol.svg"
+  },
+  {
     "slug": "soge",
     "name": "Societe Generale",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/soge/symbol.svg"
+  },
+  {
+    "slug": "sonali-bank",
+    "name": "Sonali Bank PLC",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/sonali-bank/symbol.svg"
+  },
+  {
+    "slug": "srcb",
+    "name": "Suryoday Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/srcb/symbol.svg"
+  },
+  {
+    "slug": "stcb",
+    "name": "SBM Bank (India) Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/stcb/symbol.svg"
+  },
+  {
+    "slug": "tamilnadu-grama",
+    "name": "Tamil Nadu Grama Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/tamilnadu-grama/symbol.svg"
   },
   {
     "slug": "tmbl",
@@ -360,9 +535,19 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/tmbl/symbol.svg"
   },
   {
+    "slug": "tripura-gramin",
+    "name": "Tripura Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/tripura-gramin/symbol.svg"
+  },
+  {
     "slug": "ubin",
     "name": "Union Bank of India",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ubin/symbol.svg"
+  },
+  {
+    "slug": "ubsw",
+    "name": "UBS AG",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ubsw/symbol.svg"
   },
   {
     "slug": "ucba",
@@ -375,14 +560,44 @@
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ujvn/symbol.svg"
   },
   {
+    "slug": "unba",
+    "name": "Unity Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/unba/symbol.svg"
+  },
+  {
     "slug": "uovb",
     "name": "United Overseas Bank Limited",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/uovb/symbol.svg"
   },
   {
+    "slug": "up-gramin",
+    "name": "Uttar Pradesh Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/up-gramin/symbol.svg"
+  },
+  {
     "slug": "utib",
     "name": "Axis Bank",
     "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/utib/symbol.svg"
+  },
+  {
+    "slug": "utks",
+    "name": "Utkarsh Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/utks/symbol.svg"
+  },
+  {
+    "slug": "uttarakhand-gramin",
+    "name": "Uttarakhand Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/uttarakhand-gramin/symbol.svg"
+  },
+  {
+    "slug": "vtbj",
+    "name": "JSC VTB Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/vtbj/symbol.svg"
+  },
+  {
+    "slug": "wb-gramin",
+    "name": "West Bengal Gramin Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/wb-gramin/symbol.svg"
   },
   {
     "slug": "wpac",
