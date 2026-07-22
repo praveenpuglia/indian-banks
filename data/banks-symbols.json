@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "airp",
+    "name": "Airtel Payments Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/airp/symbol.svg"
+  },
+  {
+    "slug": "aubl",
+    "name": "AU Small Finance Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/aubl/symbol.svg"
+  },
+  {
+    "slug": "barb",
+    "name": "Bank of Baroda",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/barb/symbol.svg"
+  },
+  {
+    "slug": "bdbl",
+    "name": "Bandhan Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bdbl/symbol.svg"
+  },
+  {
+    "slug": "bkid",
+    "name": "Bank of India",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/bkid/symbol.svg"
+  },
+  {
+    "slug": "cbin",
+    "name": "Central Bank of India",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cbin/symbol.svg"
+  },
+  {
+    "slug": "ciub",
+    "name": "City Union Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ciub/symbol.svg"
+  },
+  {
+    "slug": "cnrb",
+    "name": "Canara Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/cnrb/symbol.svg"
+  },
+  {
+    "slug": "csbk",
+    "name": "CSB Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/csbk/symbol.svg"
+  },
+  {
+    "slug": "dcbl",
+    "name": "DCB Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dcbl/symbol.svg"
+  },
+  {
+    "slug": "dlxb",
+    "name": "Dhanalakshmi Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/dlxb/symbol.svg"
+  },
+  {
+    "slug": "esmf",
+    "name": "ESAF Small Finance Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/esmf/symbol.svg"
+  },
+  {
+    "slug": "fdrl",
+    "name": "Federal Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/fdrl/symbol.svg"
+  },
+  {
+    "slug": "fino",
+    "name": "FINO Payments Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/fino/symbol.svg"
+  },
+  {
+    "slug": "hdfc",
+    "name": "HDFC Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/hdfc/symbol.svg"
+  },
+  {
+    "slug": "ibkl",
+    "name": "IDBI Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ibkl/symbol.svg"
+  },
+  {
+    "slug": "icic",
+    "name": "ICICI Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/icic/symbol.svg"
+  },
+  {
+    "slug": "idfb",
+    "name": "IDFC First Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/idfb/symbol.svg"
+  },
+  {
+    "slug": "idib",
+    "name": "Indian Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/idib/symbol.svg"
+  },
+  {
+    "slug": "indb",
+    "name": "IndusInd Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/indb/symbol.svg"
+  },
+  {
+    "slug": "ioba",
+    "name": "Indian Overseas Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ioba/symbol.svg"
+  },
+  {
+    "slug": "jaka",
+    "name": "Jammu and Kashmir Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jaka/symbol.svg"
+  },
+  {
+    "slug": "jiop",
+    "name": "Jio Payments Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/jiop/symbol.svg"
+  },
+  {
+    "slug": "karb",
+    "name": "Karnataka Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/karb/symbol.svg"
+  },
+  {
+    "slug": "kkbk",
+    "name": "Kotak Mahindra Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kkbk/symbol.svg"
+  },
+  {
+    "slug": "kvbl",
+    "name": "Karur Vysya Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/kvbl/symbol.svg"
+  },
+  {
+    "slug": "mahb",
+    "name": "Bank of Maharashtra",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/mahb/symbol.svg"
+  },
+  {
+    "slug": "ntbl",
+    "name": "The Nainital Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ntbl/symbol.svg"
+  },
+  {
+    "slug": "psib",
+    "name": "Punjab and Sind Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/psib/symbol.svg"
+  },
+  {
+    "slug": "punb",
+    "name": "Punjab National Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/punb/symbol.svg"
+  },
+  {
+    "slug": "pytm",
+    "name": "Paytm Payments Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/pytm/symbol.svg"
+  },
+  {
+    "slug": "ratn",
+    "name": "RBL Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ratn/symbol.svg"
+  },
+  {
+    "slug": "sbin",
+    "name": "State Bank of India",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/sbin/symbol.svg"
+  },
+  {
+    "slug": "scbl",
+    "name": "Standard Chartered Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/scbl/symbol.svg"
+  },
+  {
+    "slug": "sibl",
+    "name": "South Indian Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/sibl/symbol.svg"
+  },
+  {
+    "slug": "tmbl",
+    "name": "Tamilnad Mercantile Bank Limited",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/tmbl/symbol.svg"
+  },
+  {
+    "slug": "ubin",
+    "name": "Union Bank of India",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ubin/symbol.svg"
+  },
+  {
+    "slug": "ucba",
+    "name": "UCO Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ucba/symbol.svg"
+  },
+  {
+    "slug": "ujvn",
+    "name": "Ujjivan Small Finance Bank Ltd",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/ujvn/symbol.svg"
+  },
+  {
+    "slug": "utib",
+    "name": "Axis Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/utib/symbol.svg"
+  },
+  {
+    "slug": "yesb",
+    "name": "Yes Bank",
+    "logo": "https://cdn.jsdelivr.net/gh/AnkitBalhara/indian-banks@latest/assets/logos/yesb/symbol.svg"
+  }
+]
