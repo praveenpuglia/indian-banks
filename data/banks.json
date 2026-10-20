@@ -10,6 +10,7 @@
   "csbk": "CSB Bank Limited",
   "dcbl": "DCB Bank Limited",
   "dlxb": "Dhanalakshmi Bank",
+  "esfb": "Equitas Small Finance Bank",
   "esmf": "ESAF Small Finance Bank",
   "fdrl": "Federal Bank",
   "fino": "FINO Payments Bank",
@@ -26,6 +27,7 @@
   "kkbk": "Kotak Mahindra Bank Limited",
   "kvbl": "Karur Vysya Bank",
   "mahb": "Bank of Maharashtra",
+  "nesf": "slice Small Finance Bank",
   "ntbl": "The Nainital Bank Limited",
   "psib": "Punjab and Sind Bank",
   "punb": "Punjab National Bank",
@@ -34,10 +36,12 @@
   "sbin": "State Bank of India",
   "scbl": "Standard Chartered Bank",
   "sibl": "South Indian Bank",
+  "smcb": "Shivalik Small Finance Bank",
   "tmbl": "Tamilnad Mercantile Bank Limited",
   "ubin": "Union Bank of India",
   "ucba": "UCO Bank",
   "ujvn": "Ujjivan Small Finance Bank Ltd",
+  "unba": "Unity Small Finance Bank",
   "utib": "Axis Bank",
   "yesb": "Yes Bank"
 }

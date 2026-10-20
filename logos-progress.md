@@ -34,16 +34,16 @@
 
 - [x] Au Small Finance Bank Ltd.
 - [ ] Capital Small Finance Bank Ltd
-- [ ] Fincare Small Finance Bank Ltd.
-- [ ] Equitas Small Finance Bank Ltd
+- [ ] Fincare Small Finance Bank Ltd. — merged into AU SFB (Apr 2024)
+- [x] Equitas Small Finance Bank Ltd
 - [x] ESAF Small Finance Bank Ltd.
 - [ ] Suryoday Small Finance Bank Ltd.
 - [x] Ujjivan Small Finance Bank Ltd.
 - [ ] Utkarsh Small Finance Bank Ltd.
-- [ ] North East Small finance Bank Ltd
+- [x] North East Small finance Bank Ltd — now slice Small Finance Bank
 - [ ] Jana Small Finance Bank Ltd
-- [ ] Shivalik Small Finance Bank Ltd
-- [ ] Unity Small Finance Bank Ltd
+- [x] Shivalik Small Finance Bank Ltd — symbol PNG only
+- [x] Unity Small Finance Bank Ltd
 
 ## List of Payments Banks (PB)
 
