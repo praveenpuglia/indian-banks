@@ -41,14 +41,14 @@
 - [x] Ujjivan Small Finance Bank Ltd.
 - [x] Utkarsh Small Finance Bank Ltd.
 - [x] North East Small finance Bank Ltd — now slice Small Finance Bank
-- [x] Jana Small Finance Bank Ltd — logo only (wordmark, no separate symbol)
+- [x] Jana Small Finance Bank Ltd — symbol traced from App Store icon
 - [x] Shivalik Small Finance Bank Ltd — traced from media-kit PNG
 - [x] Unity Small Finance Bank Ltd
 
 ## List of Payments Banks (PB)
 
 - [x] Airtel Payments Bank Ltd
-- [ ] India Post Payments Bank Ltd
+- [x] India Post Payments Bank Ltd — 2022-23 annual-report lockup (current Aug 2024 lockup has no public vector)
 - [x] FINO Payments Bank Ltd
 - [x] Paytm Payments Bank Ltd
 - [x] Jio Payments Bank Ltd
