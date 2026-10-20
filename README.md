@@ -53,6 +53,7 @@ This table is auto-generated from [data/banks.json](./data/banks.json) and the c
 | [Indian Overseas Bank](./assets/logos/ioba/) | `ioba` | <img src="./assets/logos/ioba/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ioba/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Jammu and Kashmir Bank](./assets/logos/jaka/) | `jaka` | <img src="./assets/logos/jaka/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/jaka/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Jio Payments Bank](./assets/logos/jiop/) | `jiop` | <img src="./assets/logos/jiop/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/jiop/symbol.svg" height="64" /><br/>`SVG` `PNG` |
+| [Jana Small Finance Bank](./assets/logos/jsfb/) | `jsfb` | <img src="./assets/logos/jsfb/logo.svg" height="64" /><br/>`SVG` `PNG` | — |
 | [Karnataka Bank Limited](./assets/logos/karb/) | `karb` | <img src="./assets/logos/karb/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/karb/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Kotak Mahindra Bank Limited](./assets/logos/kkbk/) | `kkbk` | <img src="./assets/logos/kkbk/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/kkbk/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Karur Vysya Bank](./assets/logos/kvbl/) | `kvbl` | <img src="./assets/logos/kvbl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/kvbl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
@@ -67,12 +68,14 @@ This table is auto-generated from [data/banks.json](./data/banks.json) and the c
 | [Standard Chartered Bank](./assets/logos/scbl/) | `scbl` | <img src="./assets/logos/scbl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/scbl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [South Indian Bank](./assets/logos/sibl/) | `sibl` | <img src="./assets/logos/sibl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/sibl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Shivalik Small Finance Bank](./assets/logos/smcb/) | `smcb` | — | <img src="./assets/logos/smcb/symbol.png" height="64" /><br/>`PNG` |
+| [Suryoday Small Finance Bank](./assets/logos/sury/) | `sury` | <img src="./assets/logos/sury/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/sury/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Tamilnad Mercantile Bank Limited](./assets/logos/tmbl/) | `tmbl` | <img src="./assets/logos/tmbl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/tmbl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Union Bank of India](./assets/logos/ubin/) | `ubin` | <img src="./assets/logos/ubin/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ubin/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [UCO Bank](./assets/logos/ucba/) | `ucba` | <img src="./assets/logos/ucba/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ucba/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Ujjivan Small Finance Bank Ltd](./assets/logos/ujvn/) | `ujvn` | <img src="./assets/logos/ujvn/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ujvn/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Unity Small Finance Bank](./assets/logos/unba/) | `unba` | <img src="./assets/logos/unba/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/unba/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Axis Bank](./assets/logos/utib/) | `utib` | <img src="./assets/logos/utib/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/utib/symbol.svg" height="64" /><br/>`SVG` `PNG` |
+| [Utkarsh Small Finance Bank](./assets/logos/utks/) | `utks` | <img src="./assets/logos/utks/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/utks/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Yes Bank](./assets/logos/yesb/) | `yesb` | <img src="./assets/logos/yesb/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/yesb/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 <!-- BANKS_TABLE_END -->
 

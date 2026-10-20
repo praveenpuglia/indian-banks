@@ -37,11 +37,11 @@
 - [ ] Fincare Small Finance Bank Ltd. — merged into AU SFB (Apr 2024)
 - [x] Equitas Small Finance Bank Ltd
 - [x] ESAF Small Finance Bank Ltd.
-- [ ] Suryoday Small Finance Bank Ltd.
+- [x] Suryoday Small Finance Bank Ltd.
 - [x] Ujjivan Small Finance Bank Ltd.
-- [ ] Utkarsh Small Finance Bank Ltd.
+- [x] Utkarsh Small Finance Bank Ltd.
 - [x] North East Small finance Bank Ltd — now slice Small Finance Bank
-- [ ] Jana Small Finance Bank Ltd
+- [x] Jana Small Finance Bank Ltd — logo only (wordmark, no separate symbol)
 - [x] Shivalik Small Finance Bank Ltd — symbol PNG only
 - [x] Unity Small Finance Bank Ltd
 
