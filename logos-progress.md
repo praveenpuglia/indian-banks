@@ -124,45 +124,47 @@
 
 ## List of foreign banks having branch-presence in India
 
-- [ ] Australia and New Zealand Banking Group Ltd.
-- [ ] National Australia Bank
-- [ ] Bank of Bahrain & Kuwait BSC
-- [ ] AB Bank Ltd.
-- [ ] Sonali Bank Ltd.
-- [ ] Bank of Nova Scotia
-- [ ] Industrial & Commercial Bank of China Ltd.
-- [ ] BNP Paribas
-- [ ] Credit Agricole Corporate & Investment Bank
-- [ ] Societe Generale
-- [ ] Deutsche Bank
-- [ ] HSBC Ltd
-- [ ] PT Bank Maybank Indonesia TBK
-- [ ] Mizuho Bank Ltd.
-- [ ] Sumitomo Mitsui Banking Corporation
-- [ ] MUFG Bank, Ltd.
-- [ ] Cooperatieve Rabobank U.A.
-- [ ] Doha Bank
-- [ ] Qatar National Bank SAQ
-- [ ] JSC VTB Bank
-- [ ] Sberbank
-- [ ] United Overseas Bank Ltd.
-- [ ] FirstRand Bank Ltd.
-- [ ] Shinhan Bank
-- [ ] Woori Bank
-- [ ] KEB Hana Bank
-- [ ] Industrial Bank of Korea
-- [ ] Bank of Ceylon
-- [ ] Credit Suisse A.G
-- [ ] CTBC Bank Co., Ltd.
-- [ ] Krung Thai Bank Public Co. Ltd
-- [ ] Abu Dhabi Commercial Bank Ltd.
-- [ ] Mashreq Bank PSC
-- [ ] First Abu Dhabi Bank PJSC
-- [ ] Emirates NBD Bank PJSC
-- [ ] Barclays Bank Plc.
+- [x] AB Bank Ltd.
+- [ ] American Express Banking Corporation — no IFSC prefix found
+- [x] Australia and New Zealand Banking Group Ltd.
+- [x] Barclays Bank Plc.
+- [x] Bank of America
+- [x] Bank of Bahrain and Kuwait B.S.C.
+- [x] Bank of Ceylon
+- [ ] Bank of China Limited — no IFSC prefix found
+- [x] Bank of Nova Scotia
+- [x] BNP Paribas
+- [x] Citibank N.A.
+- [x] Cooperatieve Rabobank U.A.
+- [x] Credit Agricole Corporate and Investment Bank
+- [x] CTBC Bank Co., Ltd.
+- [x] DBS Bank India Limited
+- [x] Deutsche Bank A.G.
+- [ ] Doha Bank Q.P.S.C — rebranded Jul 2026; new logo only published as raster
+- [x] Emirates NBD Bank P.J.S.C
+- [x] First Abu Dhabi Bank PJSC — logo only (FAB has no standalone mark)
+- [x] FirstRand Bank Limited
+- [x] Hong Kong and Shanghai Banking Corporation Limited
+- [x] Industrial and Commercial Bank of China
+- [x] Industrial Bank of Korea
+- [x] J.P. Morgan Chase Bank N.A. — logo only (wordmark brand)
+- [ ] JSC VTB Bank — no IFSC prefix found
+- [x] KEB Hana Bank
+- [x] Kookmin Bank
+- [x] Mashreq bank P.S.C
+- [x] Mizuho Bank Ltd. — logo only (wordmark brand)
+- [x] MUFG Bank, Ltd.
+- [ ] Nong Hyup Bank — no IFSC prefix found
+- [x] NatWest Markets Plc
+- [x] PT Bank Maybank Indonesia TBK
+- [x] Qatar National Bank (Q.P.S.C.)
+- [x] Sberbank
+- [x] SBM Bank (India) Limited
+- [x] Shinhan Bank
+- [x] Societe Generale
+- [x] Sonali Bank Ltd. — symbol only (no vector full logo published)
 - [x] Standard Chartered Bank
-- [ ] NatWest Markets plc
-- [ ] American Express Banking Corp.
-- [ ] Bank of America
-- [ ] Citibank N.A.
-- [ ] J.P. Morgan Chase Bank N.A.
+- [x] Sumitomo Mitsui Banking Corporation
+- [ ] UBS AG — no IFSC prefix found
+- [x] United Overseas Bank Limited
+- [x] Woori Bank
