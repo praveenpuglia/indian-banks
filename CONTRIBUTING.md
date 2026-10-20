@@ -78,4 +78,5 @@ See `pnpm run convert -- --help` for the full list.
 
 - Inkscape/Illustrator project files (`.ai`, `.eps`, `.sketch`, etc.) — upstream `.svg`/`.png` only.
 - Bitmap-traced SVGs that embed a raster image (`<image>` tag inside the SVG). Prefer a real vector.
+  If a bank publishes only raster artwork, a path trace (e.g. potrace, one pass per brand colour) of a high-resolution official PNG is acceptable. Check it against the source at full size and note it in [`logos-progress.md`](./logos-progress.md).
 - Logos downloaded from Google Images or unofficial blogs. Prefer sources linked from the bank's own website, press kits, or annual reports.
