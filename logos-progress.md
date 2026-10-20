@@ -41,7 +41,7 @@
 - [x] Ujjivan Small Finance Bank Ltd.
 - [x] Utkarsh Small Finance Bank Ltd.
 - [x] North East Small finance Bank Ltd — now slice Small Finance Bank
-- [x] Jana Small Finance Bank Ltd — logo only (wordmark, no separate symbol)
+- [x] Jana Small Finance Bank Ltd — symbol traced from App Store icon
 - [x] Shivalik Small Finance Bank Ltd — traced from media-kit PNG
 - [x] Unity Small Finance Bank Ltd
 
