@@ -36,6 +36,7 @@ This table is auto-generated from [data/banks.json](./data/banks.json) and the c
 | [Bank of India](./assets/logos/bkid/) | `bkid` | <img src="./assets/logos/bkid/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/bkid/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Central Bank of India](./assets/logos/cbin/) | `cbin` | <img src="./assets/logos/cbin/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/cbin/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [City Union Bank](./assets/logos/ciub/) | `ciub` | <img src="./assets/logos/ciub/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/ciub/symbol.svg" height="64" /><br/>`SVG` `PNG` |
+| [Capital Small Finance Bank](./assets/logos/clbl/) | `clbl` | <img src="./assets/logos/clbl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/clbl/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [Canara Bank](./assets/logos/cnrb/) | `cnrb` | <img src="./assets/logos/cnrb/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/cnrb/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [CSB Bank Limited](./assets/logos/csbk/) | `csbk` | <img src="./assets/logos/csbk/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/csbk/symbol.svg" height="64" /><br/>`SVG` `PNG` |
 | [DCB Bank Limited](./assets/logos/dcbl/) | `dcbl` | <img src="./assets/logos/dcbl/logo.svg" height="64" /><br/>`SVG` `PNG` | <img src="./assets/logos/dcbl/symbol.svg" height="64" /><br/>`SVG` `PNG` |

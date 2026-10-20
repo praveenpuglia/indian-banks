@@ -33,7 +33,7 @@
 ## List of Small Finance Banks (SFB)
 
 - [x] Au Small Finance Bank Ltd.
-- [ ] Capital Small Finance Bank Ltd
+- [x] Capital Small Finance Bank Ltd
 - [ ] Fincare Small Finance Bank Ltd. — merged into AU SFB (Apr 2024)
 - [x] Equitas Small Finance Bank Ltd
 - [x] ESAF Small Finance Bank Ltd.
