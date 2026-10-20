@@ -43,7 +43,11 @@ That's it. The post-install step configures a pre-commit hook via husky. You don
    ```json
    "<slug>": "Official Bank Name"
    ```
-4. Commit your changes.
+4. Add its type in [`data/types.json`](./data/types.json), using the groups from RBI's [list of bank websites](https://www.rbi.org.in/scripts/banklinks.aspx). The valid keys are `private`, `local-area`, `small-finance`, `payments`, `public`, `financial-institution`, `regional-rural` and `foreign`:
+   ```json
+   "<slug>": "small-finance"
+   ```
+5. Commit your changes.
 
 That's all. The pre-commit hook handles the rest:
 
