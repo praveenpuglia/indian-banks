@@ -37,7 +37,7 @@ Click a logo to open the source file. The previews sit on white cards so they st
 This table is auto-generated from [data/banks.json](./data/banks.json) and the contents of [assets/logos/](./assets/logos/) on every commit that touches either. To regenerate manually, run `pnpm run generate:readme`.
 
 <!-- BANKS_TABLE_START -->
-[Private Sector Banks](#private-sector-banks) (21) · [Small Finance Banks](#small-finance-banks) (11) · [Payments Banks](#payments-banks) (4) · [Public Sector Banks](#public-sector-banks) (12) · [Foreign Banks](#foreign-banks) (1)
+[Private Sector Banks](#private-sector-banks) (21) · [Small Finance Banks](#small-finance-banks) (11) · [Payments Banks](#payments-banks) (5) · [Public Sector Banks](#public-sector-banks) (12) · [Foreign Banks](#foreign-banks) (1)
 
 ### Private Sector Banks
 
@@ -87,6 +87,7 @@ This table is auto-generated from [data/banks.json](./data/banks.json) and the c
 | --- | --- | --- | --- |
 | [Airtel Payments Bank](./assets/logos/airp/) | `airp` | <a href="./assets/logos/airp/logo.svg"><img src="./assets/previews/airp-logo.png" width="166" alt="airp logo" /></a> | <a href="./assets/logos/airp/symbol.svg"><img src="./assets/previews/airp-symbol.png" width="47" alt="airp symbol" /></a> |
 | [FINO Payments Bank](./assets/logos/fino/) | `fino` | <a href="./assets/logos/fino/logo.svg"><img src="./assets/previews/fino-logo.png" width="216" alt="fino logo" /></a> | <a href="./assets/logos/fino/symbol.svg"><img src="./assets/previews/fino-symbol.png" width="46.5" alt="fino symbol" /></a> |
+| [India Post Payments Bank](./assets/logos/ipos/) | `ipos` | <a href="./assets/logos/ipos/logo.svg"><img src="./assets/previews/ipos-logo.png" width="188" alt="ipos logo" /></a> | <a href="./assets/logos/ipos/symbol.svg"><img src="./assets/previews/ipos-symbol.png" width="48" alt="ipos symbol" /></a> |
 | [Jio Payments Bank](./assets/logos/jiop/) | `jiop` | <a href="./assets/logos/jiop/logo.svg"><img src="./assets/previews/jiop-logo.png" width="56" alt="jiop logo" /></a> | <a href="./assets/logos/jiop/symbol.svg"><img src="./assets/previews/jiop-symbol.png" width="48" alt="jiop symbol" /></a> |
 | [Paytm Payments Bank](./assets/logos/pytm/) | `pytm` | <a href="./assets/logos/pytm/logo.svg"><img src="./assets/previews/pytm-logo.png" width="216" alt="pytm logo" /></a> | <a href="./assets/logos/pytm/symbol.svg"><img src="./assets/previews/pytm-symbol.png" width="48" alt="pytm symbol" /></a> |
 

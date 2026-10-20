@@ -48,7 +48,7 @@
 ## List of Payments Banks (PB)
 
 - [x] Airtel Payments Bank Ltd
-- [ ] India Post Payments Bank Ltd
+- [x] India Post Payments Bank Ltd — 2022-23 annual-report lockup (current Aug 2024 lockup has no public vector)
 - [x] FINO Payments Bank Ltd
 - [x] Paytm Payments Bank Ltd
 - [x] Jio Payments Bank Ltd
