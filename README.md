@@ -1,6 +1,6 @@
 # Indian Banks
 
-Structured, centralized data, including logos for all the Indian Banks, collected from official sources.
+Structured, centralized data, including logos for all the Indian Banks & Foreign Banks operating in India, collected from official sources.
 
 ## Using the logos
 
